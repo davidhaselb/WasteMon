@@ -1,4 +1,4 @@
-# WasteMon - a different kind of battery information (MacOS)
+# WasteMon - a Different Kind of Battery Information (MacOS)
 
 WasteMon shows the battery status as CO2 pollution or as atomic waste produced.
 
