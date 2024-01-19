@@ -8,6 +8,11 @@ Battery load cycles are multiplied by the energy capacity of the battery to get 
 
 Compile in XCode
 
+## Download
+
+[Latest Release](https://github.com/davidhaselb/WasteMon/releases/tag/WasteMon)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T01KGCU)
 
 
 
